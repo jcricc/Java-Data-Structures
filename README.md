@@ -181,7 +181,7 @@ mvn test
 
 Run the following command in the project root directory:
 
-```bash
+```
 mvn clean install
 ```
 
@@ -194,20 +194,20 @@ Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix:
 
-        ```bash
+        ```
         git checkout -b feature-branch
         ```
 
 3. Make your changes and ensure the tests pass.
 4. Commit your changes:
 
-        ```bash
+        ```
         git commit -m "Add new feature"
         ```
 
 5. Push to your fork:
 
-        ```bash
+        ```
         git push origin feature-branch
         ```
 
